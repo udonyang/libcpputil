@@ -1,0 +1,2 @@
+# libcpputil
+Handy cpp util
